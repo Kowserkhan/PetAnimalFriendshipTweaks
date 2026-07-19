@@ -1,0 +1,8 @@
+/mnt/drive_H/Rider Projects/PetAnimalFriendshipTweaks/PetAnimalFriendshipTweaks/bin/Debug/net6.0/PetAnimalFriendshipTweaks.deps.json
+/mnt/drive_H/Rider Projects/PetAnimalFriendshipTweaks/PetAnimalFriendshipTweaks/bin/Debug/net6.0/PetAnimalFriendshipTweaks.dll
+/mnt/drive_H/Rider Projects/PetAnimalFriendshipTweaks/PetAnimalFriendshipTweaks/obj/Debug/net6.0/PetAnimalFriendshipTweaks.csproj.AssemblyReference.cache
+/mnt/drive_H/Rider Projects/PetAnimalFriendshipTweaks/PetAnimalFriendshipTweaks/obj/Debug/net6.0/PetAnimalFriendshipTweaks.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/drive_H/Rider Projects/PetAnimalFriendshipTweaks/PetAnimalFriendshipTweaks/obj/Debug/net6.0/PetAnimalFriendshipTweaks.AssemblyInfoInputs.cache
+/mnt/drive_H/Rider Projects/PetAnimalFriendshipTweaks/PetAnimalFriendshipTweaks/obj/Debug/net6.0/PetAnimalFriendshipTweaks.AssemblyInfo.cs
+/mnt/drive_H/Rider Projects/PetAnimalFriendshipTweaks/PetAnimalFriendshipTweaks/obj/Debug/net6.0/PetAnimalFriendshipTweaks.csproj.CoreCompileInputs.cache
+/mnt/drive_H/Rider Projects/PetAnimalFriendshipTweaks/PetAnimalFriendshipTweaks/obj/Debug/net6.0/PetAnimalFriendshipTweaks.dll
