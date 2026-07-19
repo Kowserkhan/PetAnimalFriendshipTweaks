@@ -1,0 +1,12 @@
+{
+  "Name": "Pet and Animal Friendship Tweaks",
+  "Author": "Kowserkhan",
+  "Version": "0.1.0",
+  "Description": "Raises the friendship point cap for pets and farm animals beyond vanilla's 5-heart (1000 point) limit.",
+  "UniqueID": "Kowserkhan.PetAnimalFriendshipTweaks",
+  "EntryDll": "PetAnimalFriendshipTweaks.dll",
+  "MinimumApiVersion": "4.0.0",
+  "Dependencies": [
+    { "UniqueID": "Pathoschild.Stardew.ModBuildConfig", "IsRequired": false }
+  ]
+}
