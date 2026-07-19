@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "R969/d/vm+8=",
+  "success": true,
+  "projectFilePath": "/mnt/drive_H/Rider Projects/PetAnimalFriendshipTweaks/PetAnimalFriendshipTweaks/PetAnimalFriendshipTweaks.csproj",
+  "expectedPackageFiles": [
+    "/home/kowser/.nuget/packages/pathoschild.stardew.modbuildconfig/4.3.2/pathoschild.stardew.modbuildconfig.4.3.2.nupkg.sha512",
+    "/home/kowser/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "/mnt/drive_H/Rider Projects/PetAnimalFriendshipTweaks/PetAnimalFriendshipTweaks/PetAnimalFriendshipTweaks.csproj": {}
+  },
+  "projects": {
+    "/mnt/drive_H/Rider Projects/PetAnimalFriendshipTweaks/PetAnimalFriendshipTweaks/PetAnimalFriendshipTweaks.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/drive_H/Rider Projects/PetAnimalFriendshipTweaks/PetAnimalFriendshipTweaks/PetAnimalFriendshipTweaks.csproj",
+        "projectName": "PetAnimalFriendshipTweaks",
+        "projectPath": "/mnt/drive_H/Rider Projects/PetAnimalFriendshipTweaks/PetAnimalFriendshipTweaks/PetAnimalFriendshipTweaks.csproj",
+        "packagesPath": "/home/kowser/.nuget/packages/",
+        "outputPath": "/mnt/drive_H/Rider Projects/PetAnimalFriendshipTweaks/PetAnimalFriendshipTweaks/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kowser/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Pathoschild.Stardew.ModBuildConfig": {
+              "target": "Package",
+              "version": "[4.3.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.119/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
